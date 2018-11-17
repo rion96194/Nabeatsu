@@ -13,7 +13,7 @@ def main():
             print (u"Aho")
         else:
             print i
-            print u"GitHubのテストです"
+            print u"GitHubのテストです。ここは必要ありません。"
 
 if __name__ == '__main__':
     main()
